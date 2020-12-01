@@ -1,5 +1,5 @@
 # Site vitrine Combava 
-Réalisé en collaboration avec Antoine Droual et Florian Toribio lors du second semestre de DUT Informatique.
+Réalisé en collaboration avec [Antoine Droual](github.com/Anmaceis) et Florian Toribio lors du second semestre de DUT Informatique.
 ## Présentation
 Nous devions élaborer un site Web fictif, one-page vitrine pour l'association Combava, producteurs d'agrumes dans le Sud de la France. 
 Cette association a eu l'opportunité d'utiliser une des marques emblématiques et fondatrices de citronnade aux Etats-Unis : Davids Lemonade pour produire et commercialiser ses produits. 
