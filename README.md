@@ -22,19 +22,19 @@ Cette partie est consacrée à l'histoire de Davids Lemonade. Il était importan
 
 Nous avons aussi mis en lumière l'association Combava en dévoilant leur futur projet : faire déguster leur produit dans la France entière à travers des stands de dégustations.
 
-![Partie histoire](imagesMD/Présentation.png)
+![Screenshot histoire](imagesMD/Présentation.png)
 
 ### Evènements 
 Combava nous avait communiqué une liste de 10 évènements dans la France entière sur les mois de Juillet et Août 2020. 
 L'utilisateur pouvait alors découvrir les dégustations proches de chez lui grâce à une carte Google Map. 
 
-![Partie evenements](imagesMD/Présentation2.png)
+![Screenshot evenements](imagesMD/Présentation2.png)
 
 ### Inscription
 Afin que Combava puisse prévoir le nombre de personnes qui étaient intéressés par un événement, un formulaire était à disposition des utilisateurs afin de s'inscrire.    
-![Partie inscription](imagesMD/Inscription.png)
+![Screenshot inscription](imagesMD/Inscription.png)
 
 ### Contact
 Pour terminer cette réalisation one-page, il est important de laisser les coordonnées de l'association en bas de la page. Aujourd'hui la présence sur les réseaux sociaux est importante, elle influe sur la visibilité de la marque. C'est pour cela que les liens de tous leurs moyens de contact sont disponibles en bas de la page.
 
-![Partie inscription](imagesMD/Contact.png)
+![Screenshot Contact](imagesMD/Contact.png)
