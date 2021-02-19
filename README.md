@@ -41,9 +41,9 @@ Pour terminer cette réalisation one-page, il est important de laisser les coord
 
 ## Outils & langages
 
-#### Développé en : 
+#### Projet développé en : 
 - HTML 
 - CSS
 
 #### Avec : 
-Atom 
+- Atom 
