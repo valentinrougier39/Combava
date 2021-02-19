@@ -38,3 +38,12 @@ Afin que Combava puisse prévoir le nombre de personnes qui étaient intéressé
 Pour terminer cette réalisation one-page, il est important de laisser les coordonnées de l'association en bas de la page. Aujourd'hui la présence sur les réseaux sociaux est importante, elle influe sur la visibilité de la marque. C'est pour cela que les liens de tous leurs moyens de contact sont disponibles en bas de la page.
 
 ![Screenshot Contact](imagesMD/Contact.png)
+
+## Outils & langages
+
+#### Développé en : 
+- HTML 
+- CSS
+
+#### Avec : 
+Atom 
